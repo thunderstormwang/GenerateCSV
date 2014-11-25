@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Address.cs" />
     <Compile Include="Example01.cs" />
+    <Compile Include="Example02.cs" />
     <Compile Include="IExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

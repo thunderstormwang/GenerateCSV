@@ -10,7 +10,7 @@ namespace GenerateCSV
     {
         public static int Main(string[] args)
         {
-            IExample example = new Example01();
+            IExample example = new Example02();
             example.Start();
 
             return 0;
